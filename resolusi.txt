@@ -1,8 +1,0 @@
-Resolusi
-- konsisten untuk belajar pemrograman web
-  * PHP
-  * Javascript
-  * CSS
-  * HTML
-- membuat project sederhana
-- belajar hosting web
